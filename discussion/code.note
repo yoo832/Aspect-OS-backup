@@ -1,0 +1,55 @@
+<this is where we review & revise code>
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+
+Add this to the very end of every page
+
+- Coco7nut / -Bypass- / -Porthack- / dyecyanide ( All 4 IP banned account )
+
+alright will do
+
+
+It's CC lic
+-  Coco7nut / -Bypass- / -Porthack- / dyecyanide ( All 4 IP banned account )
+
+Don't add it to debugpage.html is developer only normally anyway.
+Edit: Or any other file in HTML Code/Developer Stuff/(AnyFileGoesHere.html)
+
+we should add a backup trigger: 'if (website)=null then load "backup website"'
+yooit
+
+I found a bug in our code. When we are on a current page and we click that button again, it doesn't
+work anymore.
+====================================================
+what
+==================================================
+I can't find the code for the orange background.
+-Vanilla
+================================================
+WHAT
+IS THIS THE OLD THINGE
+===============================================
+can i embed he beta 2 using turbowarp?
+-mbrick2
+===========================================
+Yeah sure
+-AIGamesDeveloper
+=======================
+
+BUG:
+
+<a href"#"><u>Learn more</u></a>
+
+where's <li>?
+EDIT: fixed!
+yooit
+============
+I found out this works:
+<marquee direction="left"><section class="features">Text</section></marquee>
+It will actually slide hahaha.
+-GAMS2
+REPLY:
+     You can make it go up, down and right too!
+yooit
+========================================
